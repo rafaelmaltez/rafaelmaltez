@@ -1,10 +1,10 @@
 # Rafael Maltez
 
-_Olá, eu sou o Rafael, e aqui você vai poder acompanhar meus projetos e exercícios_
+Olá, eu sou o Rafael, e aqui você vai poder acompanhar meus projetos e exercícios
 
-_Atualmente estou em transição de carreira, e estou cursando Desenvolvimento de Software na [Trybe](https://betrybe.com.br)_
+Atualmente estou em _transição de carreira,_ e estou cursando _Desenvolvimento de Software_ na [Trybe](https://betrybe.com.br)
 
-_Meu objetivo é me tornar um Desenvolvedor Fullstack de excelencia, adquirindo um sólido conhecimento técnico de minha nova profissão, além é claro, de desenvolver cada dia mais as minhas habilidades sócio-comportamentais, me tornando assim melhor pessoa e profissional._
+Meu objetivo é me tornar um _Desenvolvedor Fullstack_ de excelencia, adquirindo um sólido _conhecimento técnico_ de minha nova profissão, além de desenvolver cada dia mais as minhas _habilidades sócio-comportamentais,_ me tornando assim _melhor pessoa e profissional._
 
 _Abaixo segue o cronograma do curso._
 _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação pode ser acompahnado [nesse repositório aqui](https://github.com/rafaelmaltez/trybe-exercises)_
