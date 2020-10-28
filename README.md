@@ -1,10 +1,10 @@
 # Rafael Maltez
 
-_Olá, eu sou o Rafael, e aqui você vai poder acompanhar meus projetos e exercícios_
+Olá, eu sou o Rafael, e aqui você vai poder acompanhar meus projetos e exercícios
 
-_Atualmente estou em transição de carreira, e estou cursando Desenvolvimento de Software na [Trybe](https://betrybe.com.br)_
+Atualmente estou em _transição de carreira,_ e estou cursando _Desenvolvimento de Software_ na [Trybe](https://betrybe.com.br)
 
-_Meu objetivo é me tornar um Desenvolvedor Fullstack de excelencia, adquirindo um sólido conhecimento técnico de minha nova profissão, além é claro, de desenvolver cada dia mais as minhas habilidades sócio-comportamentais, me tornando assim melhor pessoa e profissional._
+Meu objetivo é me tornar um _Desenvolvedor Fullstack_ de excelencia, adquirindo um sólido _conhecimento técnico_ de minha nova profissão, além de desenvolver cada dia mais as minhas _habilidades sócio-comportamentais,_ me tornando assim _melhor pessoa e profissional._
 
 _Abaixo segue o cronograma do curso._
 _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação pode ser acompahnado [nesse repositório aqui](https://github.com/rafaelmaltez/trybe-exercises)_
@@ -23,14 +23,14 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [X] 2-2: _Git & GitHub: Entendendo os comandos_ :heavy_check_mark:
 - [X] 2-3: _Internet - Entendendo como ela funciona_ :heavy_check_mark:
 
-##### Bloco 3: Introdução - HTML & CSS :hourglass_flowing_sand:
+##### Bloco 3: Introdução - HTML & CSS :heavy_check_mark:
 
 - [X] 3-1: _Introdução - HTML & CSS_ :heavy_check_mark:
 - [X] 3-1: _HTML & CSS - Estruturas de página_ :heavy_check_mark:
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_ :heavy_check_mark:
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_ :heavy_check_mark:
 - [X] 3-4: _HTML Semântico_ :heavy_check_mark:
-- [ ] 3-5: _[Projeto - HTML & CSS](https://github.com/rafaelmaltez/trybe-exercises)_
+- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/rafaelmaltez/trybe-exercises)_ :heavy_check_mark: _aguardando revisão para ser incluído no portifolio_
 
 ##### Bloco 4: Introdução - JavaScript :hourglass_flowing_sand:
 
