@@ -46,7 +46,7 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [X] 5-2: _JavaScript - Trabalhando com elementos_ :heavy_check_mark:
 - [X] 5-3: _JavaScript - Eventos_ :heavy_check_mark:
 - [X] 5-4: _JavaScript - Web Storage_ :heavy_check_mark:
-- [X] 5-7: _Projeto - Lista de tarefas_
+- [X] 5-5: _Projeto - Lista de tarefas_ :heavy_check_mark:
 
 ##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo :heavy_check_mark:
 
