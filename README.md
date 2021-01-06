@@ -38,7 +38,7 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [X] 4-2: _JavaScript - Array e loop For_ :heavy_check_mark:
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_ :heavy_check_mark:
 - [X] 4-4: _JavaScript - Objetos e funções_ :heavy_check_mark: 
-- [X] 4-5: _[Projeto - Playground Functions](https://github.com/rafaelmaltez/trybe-exercises)_ :heavy_check_mark:
+- [X] 4-5: _Projeto - Playground Functions_ :heavy_check_mark:
 
 ##### Bloco 5: Introdução - JavaScript - Projetos :heavy_check_mark:
 
