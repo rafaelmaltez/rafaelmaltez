@@ -7,7 +7,7 @@ Atualmente estou em _transição de carreira,_ e estou cursando _Desenvolvimento
 Meu objetivo é me tornar um _Desenvolvedor Fullstack_ de excelencia, adquirindo um sólido _conhecimento técnico_ de minha nova profissão, além de desenvolver cada dia mais as minhas _habilidades sócio-comportamentais,_ me tornando assim _melhor pessoa e profissional._
 
 _Abaixo segue o cronograma do curso._
-_O desenvolvimento das atividades realizadas no dia-a-dia de minha formação pode ser acompahnado [nesse repositório aqui](https://github.com/rafaelmaltez/trybe-exercises)_
+_O desenvolvimento das atividades realizadas no dia-a-dia de minha formação pode ser acompanhado [nesse repositório aqui](https://github.com/rafaelmaltez/trybe-exercises)_
 
 
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
@@ -30,14 +30,14 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_ :heavy_check_mark:
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_ :heavy_check_mark:
 - [X] 3-4: _HTML Semântico_ :heavy_check_mark:
-- [X] 3-5: _Projeto - HTML & CSS_ :heavy_check_mark: 
+- [X] 3-5: _Projeto - HTML & CSS_ :heavy_check_mark:
 
 ##### Bloco 4: Introdução - JavaScript :heavy_check_mark:
 
 - [X] 4-1: _JavaScript - Primeiros passos_ :heavy_check_mark:
 - [X] 4-2: _JavaScript - Array e loop For_ :heavy_check_mark:
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_ :heavy_check_mark:
-- [X] 4-4: _JavaScript - Objetos e funções_ :heavy_check_mark: 
+- [X] 4-4: _JavaScript - Objetos e funções_ :heavy_check_mark:
 - [X] 4-5: _Projeto - Playground Functions_ :heavy_check_mark:
 
 ##### Bloco 5: Introdução - JavaScript - Projetos :heavy_check_mark:
@@ -78,12 +78,12 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [x] 9-2: _JavaScript Promises_ :heavy_check_mark:
 - [x] 9-3: _Projeto - Carrinho de Compras_ :heavy_check_mark:
 
-##### Bloco 10: Testes automatizados com Jest :hourglass_flowing_sand:
+##### Bloco 10: Testes automatizados com Jest :heavy_check_mark:
 
 - [x] 10-1: _Primeiros passos no Jest_ :heavy_check_mark:
 - [x] 10-2: _Jest - Testes Assíncronos_ :heavy_check_mark:
-- [ ] 10-3: _Jest - Simulando comportamentos_
-- [ ] 10-4: _Projeto - Jest Assíncrono e Mocking_
+- [X] 10-3: _Jest - Simulando comportamentos_ :heavy_check_mark:
+- [X] 10-4: _Projeto - Jest Assíncrono e Mocking_ :heavy_check_mark:
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
