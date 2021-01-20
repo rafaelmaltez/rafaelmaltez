@@ -87,21 +87,21 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 11: Introdução a React :hourglass_flowing_sand:
+##### Bloco 11: Introdução a React :heavy_check_mark:
 
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _Projeto - Movie Cards Library_
+- [x] 11-1: _'Hello, world!' no React!_ :heavy_check_mark:
+- [x] 11-2: _Componentes React_ :heavy_check_mark:
+- [x] 11-3: _Projeto - Movie Cards Library_ :heavy_check_mark:
 
-##### Bloco 12: Componentes com Estado, Eventos e Formulários com React :hourglass_flowing_sand:
+##### Bloco 12: Componentes com Estado, Eventos e Formulários com React :heavy_check_mark:
 
-- [ ] 12-1: _Components com estado e eventos_
-- [ ] 12-2: _Formulários no React_
-- [ ] 12-3: _Projeto - Movie Cards Library Stateful_
+- [x] 12-1: _Components com estado e eventos_ :heavy_check_mark:
+- [x] 12-2: _Formulários no React_ :heavy_check_mark:
+- [x] 12-3: _Projeto - Movie Cards Library Stateful_ :heavy_check_mark:
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router :hourglass_flowing_sand:
 
-- [ ] 13-1: _MCiclo de vida de componentes_
+- [x] 13-1: _MCiclo de vida de componentes_ :heavy_check_mark:
 - [ ] 13-2: _React Router_
 - [ ] 13-3: _Projeto - Movie Cards Library CRUD_
 
