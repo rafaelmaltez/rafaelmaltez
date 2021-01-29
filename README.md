@@ -99,15 +99,15 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [x] 12-2: _Formulários no React_ :heavy_check_mark:
 - [x] 12-3: _Projeto - Movie Cards Library Stateful_ :heavy_check_mark:
 
-##### Bloco 13: Ciclo de Vida de Componentes e React Router :hourglass_flowing_sand:
+##### Bloco 13: Ciclo de Vida de Componentes e React Router :heavy_check_mark:
 
-- [x] 13-1: _MCiclo de vida de componentes_ :heavy_check_mark:
-- [ ] 13-2: _React Router_
-- [ ] 13-3: _Projeto - Movie Cards Library CRUD_
+- [x] 13-1: _Ciclo de vida de componentes_ :heavy_check_mark:
+- [x] 13-2: _React Router_ :heavy_check_mark:
+- [x] 13-3: _Projeto - Movie Cards Library CRUD_ :heavy_check_mark:
 
-##### Bloco 14: Metodologias Ágeis :hourglass_flowing_sand:
+##### Bloco 14: Metodologias Ágeis :heavy_check_mark:
 
-- [ ] 14-1: _Metodologias Ágeis_
+- [x] 14-1: _Metodologias Ágeis_
 - [ ] 14-2: _Projeto - Frontend Online Store_
 
 ##### Bloco 15: Bloco 15: Testes automatizados com React Testing Library :hourglass_flowing_sand:
