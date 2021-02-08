@@ -107,8 +107,8 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 
 ##### Bloco 14: Metodologias Ágeis :heavy_check_mark:
 
-- [x] 14-1: _Metodologias Ágeis_
-- [x] 14-2: _Projeto - Frontend Online Store_
+- [x] 14-1: _Metodologias Ágeis_ :heavy_check_mark:
+- [x] 14-2: _Projeto - Frontend Online Store_ :heavy_check_mark:
 
 ##### Bloco 15: Bloco 15: Testes automatizados com React Testing Library :hourglass_flowing_sand:
 
