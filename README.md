@@ -108,13 +108,13 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 ##### Bloco 14: Metodologias Ágeis :heavy_check_mark:
 
 - [x] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _Projeto - Frontend Online Store_
+- [x] 14-2: _Projeto - Frontend Online Store_
 
 ##### Bloco 15: Bloco 15: Testes automatizados com React Testing Library :hourglass_flowing_sand:
 
-- [ ] 15-1: _RTL - Primeiros passos_
-- [ ] 15-2: _RTL - Mocks e Inputs_
-- [ ] 15-3: _RTL - Testando React Router_
+- [x] 15-1: _RTL - Primeiros passos_ :heavy_check_mark:
+- [x] 15-2: _RTL - Mocks e Inputs_ :heavy_check_mark:
+- [x] 15-3: _RTL - Testando React Router_ :heavy_check_mark:
 - [ ] 15-4: _Projeto - Testes em React_
 
 ##### Bloco 16: Gerenciamento de estado com Redux :hourglass_flowing_sand:
