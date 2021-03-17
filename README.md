@@ -110,31 +110,31 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [x] 14-1: _Metodologias Ágeis_ :heavy_check_mark:
 - [x] 14-2: _Projeto - Frontend Online Store_ :heavy_check_mark:
 
-##### Bloco 15: Bloco 15: Testes automatizados com React Testing Library :hourglass_flowing_sand:
+##### Bloco 15: Bloco 15: Testes automatizados com React Testing Library :heavy_check_mark:
 
 - [x] 15-1: _RTL - Primeiros passos_ :heavy_check_mark:
 - [x] 15-2: _RTL - Mocks e Inputs_ :heavy_check_mark:
 - [x] 15-3: _RTL - Testando React Router_ :heavy_check_mark:
-- [ ] 15-4: _Projeto - Testes em React_
+- [x] 15-4: _Projeto - Testes em React_ :heavy_check_mark:
 
-##### Bloco 16: Gerenciamento de estado com Redux :hourglass_flowing_sand:
+##### Bloco 16: Gerenciamento de estado com Redux :heavy_check_mark:
 
-- [ ] 16-1: _Introdução ao Redux_
-- [ ] 16-2: _React com Redux - Parte 1_
-- [ ] 16-3: _React com Redux - Prática_
-- [ ] 16-4: _React com Redux - Parte 2_
-- [ ] 16-5: _Testes síncronos com React-Redux_
-- [ ] 16-6: _Projeto - Trybe Wallet_
+- [x] 16-1: _Introdução ao Redux_ :heavy_check_mark:
+- [x] 16-2: _React com Redux - Parte 1_ :heavy_check_mark:
+- [x] 16-3: _React com Redux - Prática_ :heavy_check_mark:
+- [x] 16-4: _React com Redux - Parte 2_ :heavy_check_mark:
+- [x] 16-5: _Testes síncronos com React-Redux_ :heavy_check_mark:
+- [x] 16-6: _Projeto - Trybe Wallet_ :heavy_check_mark:
 
-##### Bloco 17: Projeto React :hourglass_flowing_sand:
+##### Bloco 17: Projeto React :heavy_check_mark:
 
-- [ ] 17-1: _Projeto - Jogo de Trivia_
+- [x] 17-1: _Projeto - Jogo de Trivia_
 
 ##### Bloco 18: Context API e React Hooks :hourglass_flowing_sand:
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 18-1: _Context API do React_ :heavy_check_mark:
+- [x] 18-2: _React Hooks - useState e useContext_ :heavy_check_mark:
+- [x] 18-3: _React Hooks - useEffect e Hooks customizados_ :heavy_check_mark:
 - [ ] 18-4: _Projeto - StarWars Datatable com Context API e Hooks_
 
 ##### Bloco 19: Projeto Final de Front-end :hourglass_flowing_sand:
