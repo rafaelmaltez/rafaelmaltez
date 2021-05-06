@@ -128,56 +128,56 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 
 ##### Bloco 17: Projeto React :heavy_check_mark:
 
-- [x] 17-1: _Projeto - Jogo de Trivia_
+- [x] 17-1: _Projeto - Jogo de Trivia_ :heavy_check_mark:
 
-##### Bloco 18: Context API e React Hooks :hourglass_flowing_sand:
+##### Bloco 18: Context API e React Hooks :heavy_check_mark:
 
 - [x] 18-1: _Context API do React_ :heavy_check_mark:
 - [x] 18-2: _React Hooks - useState e useContext_ :heavy_check_mark:
 - [x] 18-3: _React Hooks - useEffect e Hooks customizados_ :heavy_check_mark:
-- [ ] 18-4: _Projeto - StarWars Datatable com Context API e Hooks_
+- [x] 18-4: _Projeto - StarWars Datatable com Context API e Hooks_ :heavy_check_mark:
 
-##### Bloco 19: Projeto Final de Front-end :hourglass_flowing_sand:
+##### Bloco 19: Projeto Final de Front-end :heavy_check_mark:
 
-- [ ] 19-1: _Projeto - App de Receitas_
+- [x] 19-1: _Projeto - App de Receitas_ :heavy_check_mark:
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução à SQL :hourglass_flowing_sand:
+##### Bloco 20: Introdução à SQL :heavy_check_mark:
 
-- [ ] 20-1: _Introdução - Back-end_
-- [ ] 20-1: _Introdução - Bancos de dados relacionais_
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _Projeto - All For One_
+- [x] 20-1: _Introdução - Back-end_ :heavy_check_mark:
+- [x] 20-1: _Introdução - Bancos de dados relacionais_ :heavy_check_mark:
+- [x] 20-1: _Banco de dados SQL_ :heavy_check_mark:
+- [x] 20-2: _Encontrando dados em um banco de dados_ :heavy_check_mark:
+- [x] 20-3: _Filtrando dados de forma específica_ :heavy_check_mark:
+- [x] 20-4: _Manipulando tabelas_ :heavy_check_mark:
+- [x] 20-5: _Projeto - All For One_ :heavy_check_mark:
 
-##### Bloco 21: Funções SQL, Joins e Subqueries :hourglass_flowing_sand:
+##### Bloco 21: Funções SQL, Joins e Subqueries :heavy_check_mark:
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _Projeto - Vocabulary Booster_
+- [x] 21-1: _Funções mais usadas no SQL_ :heavy_check_mark:
+- [x] 21-2: _Descomplicando JOINs e UNIONs_ :heavy_check_mark:
+- [x] 21-3: _Stored Routines & Subqueries_ :heavy_check_mark:
+- [x] 21-4: _Projeto - Vocabulary Booster_ :heavy_check_mark:
 
-##### Bloco 22: Normalização e Modelagem de Banco de Dados :hourglass_flowing_sand:
+##### Bloco 22: Normalização e Modelagem de Banco de Dados :heavy_check_mark:
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _Projeto - One For All_
+- [x] 22-1: _Transformando ideias em um modelo de banco de dados_ :heavy_check_mark:
+- [x] 22-2: _Normalização, Formas Normais e Dumps_ :heavy_check_mark:
+- [x] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_ :heavy_check_mark:
+- [x] 22-3: _Projeto - One For All_ :heavy_check_mark:
 
-##### Bloco 23: Introdução ao MongoDB :hourglass_flowing_sand:
+##### Bloco 23: Introdução ao MongoDB :heavy_check_mark:
 
-- [ ] 23-1: _Introdução - NoSQL_
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _Projeto - Data Flights_
+- [x] 23-1: _Introdução - NoSQL_ :heavy_check_mark:
+- [x] 23-1: _MongoDB - Introdução_ :heavy_check_mark:
+- [x] 23-2: _Filter Operators_ :heavy_check_mark:
+- [x] 23-3: _Projeto - Data Flights_ :heavy_check_mark:
 
 ##### Bloco 24: Updates :hourglass_flowing_sand:
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
+- [x] 24-1: _Updates Simples_ :heavy_check_mark:
+- [x] 24-2: _Updates Complexos - Arrays - Parte 1_ :heavy_check_mark:
 - [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
 - [ ] 24-4: _Projeto - Commerce_
 
