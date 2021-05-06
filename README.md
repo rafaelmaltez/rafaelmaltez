@@ -10,7 +10,7 @@ _Abaixo segue o cronograma do curso._
 _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação pode ser acompanhado [nesse repositório aqui](https://github.com/rafaelmaltez/trybe-exercises)_
 
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
 ##### Bloco 1: Introdução - Unix, Bash e Shell Script :heavy_check_mark:
 
@@ -85,7 +85,7 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [X] 10-3: _Jest - Simulando comportamentos_ :heavy_check_mark:
 - [X] 10-4: _Projeto - Jest Assíncrono e Mocking_ :heavy_check_mark:
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Bloco 11: Introdução a React :heavy_check_mark:
 
