@@ -174,18 +174,18 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [x] 23-2: _Filter Operators_ :heavy_check_mark:
 - [x] 23-3: _Projeto - Data Flights_ :heavy_check_mark:
 
-##### Bloco 24: Updates :hourglass_flowing_sand:
+##### Bloco 24: Updates :heavy_check_mark:
 
 - [x] 24-1: _Updates Simples_ :heavy_check_mark:
 - [x] 24-2: _Updates Complexos - Arrays - Parte 1_ :heavy_check_mark:
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _Projeto - Commerce_
+- [x] 24-3: _Updates Complexos - Arrays - Parte 2_ :heavy_check_mark:
+- [x] 24-4: _Projeto - Commerce_ :heavy_check_mark:
 
-##### Bloco 25: MongoDB: Aggregation Framework :hourglass_flowing_sand:
+##### Bloco 25: MongoDB: Aggregation Framework :heavy_check_mark:
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _Projeto - Aggregations_
+- [x] 25-1: _Aggregation Framework - Part 1_ :heavy_check_mark:
+- [x] 25-2: _Aggregation Framework - Part 2_ :heavy_check_mark:
+- [x] 25-3: _Projeto - Aggregations_ :heavy_check_mark:
 
 ##### Bloco 26:  Introdução ao desenvolvimento Web com NodeJS :hourglass_flowing_sand:
 
