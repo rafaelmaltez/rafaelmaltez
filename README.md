@@ -187,14 +187,49 @@ _O desenvolvimento das atividades realizadas no dia-a-dia de minha formação po
 - [x] 25-2: _Aggregation Framework - Part 2_ :heavy_check_mark:
 - [x] 25-3: _Projeto - Aggregations_ :heavy_check_mark:
 
-##### Bloco 26:  Introdução ao desenvolvimento Web com NodeJS :hourglass_flowing_sand:
+##### Bloco 26:  Introdução ao desenvolvimento Web com NodeJS ::heavy_check_mark:
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _Express: HTTP com Node.js_
-- [ ] 26-5: _Praticando Express_
-- [ ] 26-6: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-7: _Projeto - Cookmaster_
+- [x] 26-1: _NodeJS - Introdução_ :heavy_check_mark:
+- [x] 26-2: _NodeJS - Fluxo Assíncrono_ :heavy_check_mark:
+- [x] 26-3: _Testes com NodeJS_ :heavy_check_mark:
+- [x] 26-4: _Express: HTTP com Node.js_ :heavy_check_mark:
+- [x] 26-5: _Praticando Express_ :heavy_check_mark:
+- [x] 26-6: _Projeto - Talker Manager_ :heavy_check_mark:
+
+#### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful :heavy_check_mark:
+
+- [x] 27-1: _Introdução - Arquitetura de Software_ :heavy_check_mark:
+- [x] 27-2: _Arquitetura de Software - Camada de Model_ :heavy_check_mark:
+- [x] 27-3: _Arquitetura de Software - Camadas de Controller e Service_ :heavy_check_mark:
+- [x] 27-4: _Arquitetura Web - Rest e Restful_ :heavy_check_mark:
+- [x] 27-5: _Arquitetura de Software - Testando as Camadas_ :heavy_check_mark:
+- [x] 27-6: _Projeto - Store Manager_ :heavy_check_mark:
+
+#### Bloco 28: Autenticação e Upload de Arquivos :heavy_check_mark:
+
+- [x] _28-1: NodeJS - JWT - (JSON Web Token)_ :heavy_check_mark:
+- [x] _28-2: NodeJS - Upload de arquivos com `multer`_ :heavy_check_mark:
+- [x] _28-3: NodeJS - Testando APIs com Testes de Integração_ :heavy_check_mark:
+- [x] _28-4: Projeto - Cookmaster_ :heavy_check_mark:
+
+#### Bloco 29: Deployment :heavy_check_mark:
+
+- [x] 29-1: _Infraestrutura - Deploy com Heroku_ :heavy_check_mark:
+- [x] 29-2: _Deploy - Gerenciadores de Processos_ :heavy_check_mark:
+- [x] 29-3: _Projeto - Stranger Things_ :heavy_check_mark:
+
+#### Bloco 30: Arquitetura: SOLID e ORM :heavy_check_mark:
+
+- [x] 30-1: _Arquitetura - Princípios SOLID_ :heavy_check_mark:
+- [x] 30-2: _ORM - Interface da aplicação com o banco de dados_ :heavy_check_mark: 
+- [x] 30-3: _ORM - Associations_ :heavy_check_mark:
+- [x] 30-4: _Projeto - API de Blogs_ :heavy_check_mark:
+
+#### Bloco 31: Sockets :heavy_check_mark:
+- [x] 31-1: _Arquitetura de Software - Camada de View_ :heavy_check_mark:
+- [x] 31-2: _Sockets - TCP/UDP & NET_ :heavy_check_mark:
+- [x] 31-3: _Sockets - Socket.io_ :heavy_check_mark:
+- [x] 31-4: _Sockets - Praticando Socket.io_ :heavy_check_mark:
+- [x] 31-5: _Projeto - Webchat_ :heavy_check_mark:
 
 # [...] Será atualizado até o bloco 39...
