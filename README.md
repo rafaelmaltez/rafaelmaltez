@@ -6,6 +6,9 @@ Atualmente estou em _transição de carreira,_ e estou cursando _Desenvolvimento
 
 Meu objetivo é me tornar um _Desenvolvedor Fullstack_ de excelencia, adquirindo um sólido _conhecimento técnico_ de minha nova profissão, além de desenvolver cada dia mais as minhas _habilidades sócio-comportamentais,_ me tornando assim _melhor pessoa e profissional._
 
+![Rafael Maltez GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelmaltez&show_icons=true&theme=dark)
+
+
 _Abaixo segue o cronograma do curso._
 
 
